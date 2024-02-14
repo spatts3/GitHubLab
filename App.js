@@ -1,3 +1,5 @@
+// Sam Patterson, Lucas Simpson, Reggan Hall
+
 const board = [
         [0, 0, 0, 0],
         [0, 0, 0, 0],
